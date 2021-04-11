@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Dandy Hackers Lab`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Dandy (Keisuke Kato)`,
+      summary: `who works as Security Consultant.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Dandy's Tech and Security Blog.`,
+    siteUrl: `https://dandy2nja.dev/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `dandy2nja`,
     },
   },
   plugins: [
